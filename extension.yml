@@ -1,0 +1,6 @@
+name: venum
+description: AI-powered DJ automation for DigiWaxx, Club Killers, Beatsource, and more.
+author: VenumScratch
+commands:
+  - name: venum
+    path: ./venum.sh
